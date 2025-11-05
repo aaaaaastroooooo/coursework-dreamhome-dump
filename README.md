@@ -20,7 +20,7 @@ The database is exported from MySQL Workbench as a self-contained `.sql` file, a
 ### How to import the database
 
 1. Download the SQL file from:
-   > <YOUR_LINK_HERE>
+   > [<YOUR_LINK_HERE>](https://github.com/aaaaaastroooooo/coursework-dreamhome-dump/tree/main)
 
 2. Open MySQL Workbench → Connect to your local MySQL server.
 
