@@ -35,6 +35,9 @@ The database is exported from MySQL Workbench as a self-contained `.sql` file, a
 
 5. Click `Start Import`.
 
+### MySQL Version
+Server version 8.4.7 (exported via mysqldump 8.0.44 on macOS ARM64)
+
 ### Purpose
 This repository is created for coursework submission.  
 The link is public so that examiners can verify and reproduce the database.
