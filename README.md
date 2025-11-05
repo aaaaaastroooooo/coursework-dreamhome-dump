@@ -35,9 +35,6 @@ The database is exported from MySQL Workbench as a self-contained `.sql` file, a
 
 5. Click `Start Import`.
 
-### MySQL Version
-This dump file is compatible with MySQL 5.7+ and MySQL 8.0.
-
 ### Purpose
 This repository is created for coursework submission.  
 The link is public so that examiners can verify and reproduce the database.
